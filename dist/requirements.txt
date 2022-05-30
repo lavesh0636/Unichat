@@ -1,0 +1,4 @@
+mysql-connector-python==8.0.21
+sockets==1.0.0
+json5==0.8.4
+jsonschema==3.0.1
